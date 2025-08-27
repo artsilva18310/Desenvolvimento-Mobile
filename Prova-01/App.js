@@ -1,4 +1,4 @@
-import { View, Text, StyleSheet, Button, ScrollView } from "react-native";
+  import { View, Text, StyleSheet, Button, ScrollView } from "react-native";
   import { SafeAreaView } from "react-native-safe-area-context";
 
   export default function App() {
